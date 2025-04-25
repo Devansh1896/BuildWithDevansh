@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 💻 About Me
 - 🏢 **Software Engineer at Heald** (QLD, Australia)
-- 🌱 Currently mastering enterprise systems, data science, and information management.
+- 🌱 Currently mastering MERN Stack Development.
 - 🎓 **Master of Information Technology** from *Queensland University of Technology, Australia*.
 - 🎓 **Bachelor of Engineering (Information Technology)** from *Gujarat Technological University, India*.
 - 🔧 Experienced in ASP.NET MVC, .NET Core, C#, JavaScript, PHP, and REST API development.
